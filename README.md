@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Finance Tracker] <a name="about-project"></a>
+# 📖 [Hello Rails React] <a name="about-project"></a>
 
 > **[Hello-Rails-React]** is a Rails application that integrates React with Webpack, utilizing the jsbundling-rails gem. It features a Postgres database for storing five different greetings, with an API endpoint to retrieve a random greeting, all while having a static root view.
 ## 🛠 Built With <a name="built-with"></a>
