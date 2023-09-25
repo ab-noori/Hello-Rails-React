@@ -169,7 +169,7 @@ To run tests, run the following command:
 
   Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the [issues page](https://github.com/ab-noori/Finance-Tracker/issues/new).
+  Feel free to check the [issues page](https://github.com/ab-noori/Hello-Rails-React/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
