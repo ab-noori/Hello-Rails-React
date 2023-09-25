@@ -110,7 +110,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  https://github.com/ab-noori/Finance-Tracker.git
+  https://github.com/ab-noori/Hello-Rails-React.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
