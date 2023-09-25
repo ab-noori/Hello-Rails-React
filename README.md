@@ -36,7 +36,7 @@
 
 # 📖 [Finance Tracker] <a name="about-project"></a>
 
-> **[Finance-Tracker]** is a Rails application that integrates React with Webpack, utilizing the jsbundling-rails gem. It features a Postgres database for storing five different greetings, with an API endpoint to retrieve a random greeting, all while having a static root view.
+> **[Hello-Rails-React]** is a Rails application that integrates React with Webpack, utilizing the jsbundling-rails gem. It features a Postgres database for storing five different greetings, with an API endpoint to retrieve a random greeting, all while having a static root view.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
