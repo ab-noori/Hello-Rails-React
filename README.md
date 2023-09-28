@@ -2,7 +2,7 @@
 
 > # Hello Rails React
 
-| Project Login Page |
+| Project view's shot |
 |---------------------------------------|
 |<div align="center" width="auto"><img alt="Finance-Tracker login" src="app/assets/images/shot.PNG"/></div>|
 
