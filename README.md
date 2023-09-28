@@ -2,9 +2,9 @@
 
 > # Hello Rails React
 
-| Project Login Page |
+| Project view's shot |
 |---------------------------------------|
-|<div align="center" width="auto"><img alt="Finance-Tracker login" src="app/assets/images/Finance-Tracker login.PNG"/></div>|
+|<div align="center" width="auto"><img alt="Finance-Tracker login" src="app/assets/images/shot.PNG"/></div>|
 
 
 
@@ -69,21 +69,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Splash screen]**
-- **[Sign up and log in pages]**
-- **[Home page (categories page)]**
-- **[Details page (transactions page)]**
-- **["Add a new category" page]**
-- **["Add a new transaction" page]**
-
-| Implemented Schema's ERD |
-|---------------------------------------|
-|<img width="auto" alt="erd_diagram" src="app/assets/images/erd_diagram.png">|
+- **[React-Integrated Rails Application]**
+- **[Random Greeting API]**
+- **[React Router for Navigation]**
+- **[Redux State Management]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo & Project intro <a name="live-demo"></a>
- - [Live Demo on Render](#)
+## 🚀 Live Demo <a name="live-demo"></a>
+ - [N/A](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,8 +152,7 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Applying the edit and delete options for categories]**
-- [ ] **[Optimizing the project style for longer screen sizes]**
+- [ ] **[Giving a nice bootstrap style]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
