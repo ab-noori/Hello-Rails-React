@@ -152,8 +152,7 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Applying the edit and delete options for categories]**
-- [ ] **[Optimizing the project style for longer screen sizes]**
+- [ ] **[Giving a nice bootstrap style]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
