@@ -4,7 +4,7 @@
 
 | Project Login Page |
 |---------------------------------------|
-|<div align="center" width="auto"><img alt="Finance-Tracker login" src="app/assets/images/Finance-Tracker login.PNG"/></div>|
+|<div align="center" width="auto"><img alt="Finance-Tracker login" src="app/assets/images/shot.PNG"/></div>|
 
 
 
@@ -75,10 +75,6 @@
 - **[Details page (transactions page)]**
 - **["Add a new category" page]**
 - **["Add a new transaction" page]**
-
-| Implemented Schema's ERD |
-|---------------------------------------|
-|<img width="auto" alt="erd_diagram" src="app/assets/images/erd_diagram.png">|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
