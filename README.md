@@ -69,16 +69,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Splash screen]**
-- **[Sign up and log in pages]**
-- **[Home page (categories page)]**
-- **[Details page (transactions page)]**
-- **["Add a new category" page]**
-- **["Add a new transaction" page]**
+- **[React-Integrated Rails Application]**
+- **[Random Greeting API]**
+- **[React Router for Navigation]**
+- **[Redux State Management]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo & Project intro <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
  - [N/A](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
