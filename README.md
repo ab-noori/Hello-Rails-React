@@ -79,7 +79,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo & Project intro <a name="live-demo"></a>
- - [Live Demo on Render](#)
+ - [N/A](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
